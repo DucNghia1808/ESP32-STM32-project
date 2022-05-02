@@ -1,0 +1,94 @@
+E:\VS_Cshape\tbnv\tbnv\bin\Debug\tbnv.exe.config
+E:\VS_Cshape\tbnv\tbnv\bin\Debug\tbnv.exe
+E:\VS_Cshape\tbnv\tbnv\bin\Debug\tbnv.pdb
+E:\VS_Cshape\tbnv\tbnv\obj\Debug\tbnv.csproj.AssemblyReference.cache
+E:\VS_Cshape\tbnv\tbnv\obj\Debug\tbnv.csproj.SuggestedBindingRedirects.cache
+E:\VS_Cshape\tbnv\tbnv\obj\Debug\tbnv.Form1.resources
+E:\VS_Cshape\tbnv\tbnv\obj\Debug\tbnv.Properties.Resources.resources
+E:\VS_Cshape\tbnv\tbnv\obj\Debug\tbnv.csproj.GenerateResource.cache
+E:\VS_Cshape\tbnv\tbnv\obj\Debug\tbnv.csproj.CoreCompileInputs.cache
+E:\VS_Cshape\tbnv\tbnv\obj\Debug\tbnv.exe
+E:\VS_Cshape\tbnv\tbnv\obj\Debug\tbnv.pdb
+E:\VS_Cshape\tbnv\tbnv\bin\Debug\Newtonsoft.Json.dll
+E:\VS_Cshape\tbnv\tbnv\bin\Debug\Newtonsoft.Json.xml
+E:\VS_Cshape\tbnv\tbnv\obj\Debug\tbnv.csproj.CopyComplete
+E:\VS_Cshape\tbnv\tbnv\bin\Debug\ZedGraph.dll
+E:\VS_Cshape\tbnv\tbnv\bin\Debug\ZedGraph.Web.dll
+E:\VS_Cshape\tbnv\tbnv\bin\Debug\ZedGraph.xml
+E:\VS_Cshape\tbnv\tbnv\bin\Debug\ZedGraph.Web.xml
+E:\VS_Cshape\tbnv\tbnv\bin\Debug\de\ZedGraph.resources.dll
+E:\VS_Cshape\tbnv\tbnv\bin\Debug\es\ZedGraph.resources.dll
+E:\VS_Cshape\tbnv\tbnv\bin\Debug\fr\ZedGraph.resources.dll
+E:\VS_Cshape\tbnv\tbnv\bin\Debug\hu\ZedGraph.resources.dll
+E:\VS_Cshape\tbnv\tbnv\bin\Debug\it\ZedGraph.resources.dll
+E:\VS_Cshape\tbnv\tbnv\bin\Debug\ja\ZedGraph.resources.dll
+E:\VS_Cshape\tbnv\tbnv\bin\Debug\pt\ZedGraph.resources.dll
+E:\VS_Cshape\tbnv\tbnv\bin\Debug\ru\ZedGraph.resources.dll
+E:\VS_Cshape\tbnv\tbnv\bin\Debug\sk\ZedGraph.resources.dll
+E:\VS_Cshape\tbnv\tbnv\bin\Debug\sv\ZedGraph.resources.dll
+E:\VS_Cshape\tbnv\tbnv\bin\Debug\tr\ZedGraph.resources.dll
+E:\VS_Cshape\tbnv\tbnv\bin\Debug\zh-cn\ZedGraph.resources.dll
+E:\VS_Cshape\tbnv\tbnv\bin\Debug\zh-tw\ZedGraph.resources.dll
+E:\HK2_NAM4\HT NHUNG\tbnv\tbnv\obj\Debug\tbnv.csproj.AssemblyReference.cache
+E:\HK2_NAM4\HT NHUNG\tbnv\tbnv\obj\Debug\tbnv.csproj.SuggestedBindingRedirects.cache
+E:\HK2_NAM4\HT NHUNG\tbnv\tbnv\obj\Debug\tbnv.Form1.resources
+E:\HK2_NAM4\HT NHUNG\tbnv\tbnv\obj\Debug\tbnv.Properties.Resources.resources
+E:\HK2_NAM4\HT NHUNG\tbnv\tbnv\obj\Debug\tbnv.csproj.GenerateResource.cache
+E:\HK2_NAM4\HT NHUNG\tbnv\tbnv\obj\Debug\tbnv.csproj.CoreCompileInputs.cache
+E:\HK2_NAM4\HT NHUNG\tbnv\tbnv\obj\Debug\tbnv.exe
+E:\HK2_NAM4\HT NHUNG\tbnv\tbnv\obj\Debug\tbnv.pdb
+E:\HK2_NAM4\HT NHUNG\tbnv\tbnv\bin\Debug\tbnv.exe.config
+E:\HK2_NAM4\HT NHUNG\tbnv\tbnv\bin\Debug\tbnv.exe
+E:\HK2_NAM4\HT NHUNG\tbnv\tbnv\bin\Debug\tbnv.pdb
+E:\HK2_NAM4\HT NHUNG\tbnv\tbnv\bin\Debug\Newtonsoft.Json.dll
+E:\HK2_NAM4\HT NHUNG\tbnv\tbnv\bin\Debug\ZedGraph.dll
+E:\HK2_NAM4\HT NHUNG\tbnv\tbnv\bin\Debug\ZedGraph.Web.dll
+E:\HK2_NAM4\HT NHUNG\tbnv\tbnv\bin\Debug\Newtonsoft.Json.xml
+E:\HK2_NAM4\HT NHUNG\tbnv\tbnv\bin\Debug\ZedGraph.xml
+E:\HK2_NAM4\HT NHUNG\tbnv\tbnv\bin\Debug\ZedGraph.Web.xml
+E:\HK2_NAM4\HT NHUNG\tbnv\tbnv\bin\Debug\de\ZedGraph.resources.dll
+E:\HK2_NAM4\HT NHUNG\tbnv\tbnv\bin\Debug\es\ZedGraph.resources.dll
+E:\HK2_NAM4\HT NHUNG\tbnv\tbnv\bin\Debug\fr\ZedGraph.resources.dll
+E:\HK2_NAM4\HT NHUNG\tbnv\tbnv\bin\Debug\hu\ZedGraph.resources.dll
+E:\HK2_NAM4\HT NHUNG\tbnv\tbnv\bin\Debug\it\ZedGraph.resources.dll
+E:\HK2_NAM4\HT NHUNG\tbnv\tbnv\bin\Debug\ja\ZedGraph.resources.dll
+E:\HK2_NAM4\HT NHUNG\tbnv\tbnv\bin\Debug\pt\ZedGraph.resources.dll
+E:\HK2_NAM4\HT NHUNG\tbnv\tbnv\bin\Debug\ru\ZedGraph.resources.dll
+E:\HK2_NAM4\HT NHUNG\tbnv\tbnv\bin\Debug\sk\ZedGraph.resources.dll
+E:\HK2_NAM4\HT NHUNG\tbnv\tbnv\bin\Debug\sv\ZedGraph.resources.dll
+E:\HK2_NAM4\HT NHUNG\tbnv\tbnv\bin\Debug\tr\ZedGraph.resources.dll
+E:\HK2_NAM4\HT NHUNG\tbnv\tbnv\bin\Debug\zh-cn\ZedGraph.resources.dll
+E:\HK2_NAM4\HT NHUNG\tbnv\tbnv\bin\Debug\zh-tw\ZedGraph.resources.dll
+E:\HK2_NAM4\HT NHUNG\tbnv\tbnv\obj\Debug\tbnv.csproj.CopyComplete
+E:\HK2_NAM4\Thiet bi ngoai vi\WINFORM\tbnv\tbnv\bin\Debug\tbnv.exe.config
+E:\HK2_NAM4\Thiet bi ngoai vi\WINFORM\tbnv\tbnv\bin\Debug\tbnv.exe
+E:\HK2_NAM4\Thiet bi ngoai vi\WINFORM\tbnv\tbnv\bin\Debug\tbnv.pdb
+E:\HK2_NAM4\Thiet bi ngoai vi\WINFORM\tbnv\tbnv\bin\Debug\Newtonsoft.Json.dll
+E:\HK2_NAM4\Thiet bi ngoai vi\WINFORM\tbnv\tbnv\bin\Debug\ZedGraph.dll
+E:\HK2_NAM4\Thiet bi ngoai vi\WINFORM\tbnv\tbnv\bin\Debug\ZedGraph.Web.dll
+E:\HK2_NAM4\Thiet bi ngoai vi\WINFORM\tbnv\tbnv\bin\Debug\Newtonsoft.Json.xml
+E:\HK2_NAM4\Thiet bi ngoai vi\WINFORM\tbnv\tbnv\bin\Debug\ZedGraph.xml
+E:\HK2_NAM4\Thiet bi ngoai vi\WINFORM\tbnv\tbnv\bin\Debug\ZedGraph.Web.xml
+E:\HK2_NAM4\Thiet bi ngoai vi\WINFORM\tbnv\tbnv\bin\Debug\de\ZedGraph.resources.dll
+E:\HK2_NAM4\Thiet bi ngoai vi\WINFORM\tbnv\tbnv\bin\Debug\es\ZedGraph.resources.dll
+E:\HK2_NAM4\Thiet bi ngoai vi\WINFORM\tbnv\tbnv\bin\Debug\fr\ZedGraph.resources.dll
+E:\HK2_NAM4\Thiet bi ngoai vi\WINFORM\tbnv\tbnv\bin\Debug\hu\ZedGraph.resources.dll
+E:\HK2_NAM4\Thiet bi ngoai vi\WINFORM\tbnv\tbnv\bin\Debug\it\ZedGraph.resources.dll
+E:\HK2_NAM4\Thiet bi ngoai vi\WINFORM\tbnv\tbnv\bin\Debug\ja\ZedGraph.resources.dll
+E:\HK2_NAM4\Thiet bi ngoai vi\WINFORM\tbnv\tbnv\bin\Debug\pt\ZedGraph.resources.dll
+E:\HK2_NAM4\Thiet bi ngoai vi\WINFORM\tbnv\tbnv\bin\Debug\ru\ZedGraph.resources.dll
+E:\HK2_NAM4\Thiet bi ngoai vi\WINFORM\tbnv\tbnv\bin\Debug\sk\ZedGraph.resources.dll
+E:\HK2_NAM4\Thiet bi ngoai vi\WINFORM\tbnv\tbnv\bin\Debug\sv\ZedGraph.resources.dll
+E:\HK2_NAM4\Thiet bi ngoai vi\WINFORM\tbnv\tbnv\bin\Debug\tr\ZedGraph.resources.dll
+E:\HK2_NAM4\Thiet bi ngoai vi\WINFORM\tbnv\tbnv\bin\Debug\zh-cn\ZedGraph.resources.dll
+E:\HK2_NAM4\Thiet bi ngoai vi\WINFORM\tbnv\tbnv\bin\Debug\zh-tw\ZedGraph.resources.dll
+E:\HK2_NAM4\Thiet bi ngoai vi\WINFORM\tbnv\tbnv\obj\Debug\tbnv.csproj.AssemblyReference.cache
+E:\HK2_NAM4\Thiet bi ngoai vi\WINFORM\tbnv\tbnv\obj\Debug\tbnv.csproj.SuggestedBindingRedirects.cache
+E:\HK2_NAM4\Thiet bi ngoai vi\WINFORM\tbnv\tbnv\obj\Debug\tbnv.Form1.resources
+E:\HK2_NAM4\Thiet bi ngoai vi\WINFORM\tbnv\tbnv\obj\Debug\tbnv.Properties.Resources.resources
+E:\HK2_NAM4\Thiet bi ngoai vi\WINFORM\tbnv\tbnv\obj\Debug\tbnv.csproj.GenerateResource.cache
+E:\HK2_NAM4\Thiet bi ngoai vi\WINFORM\tbnv\tbnv\obj\Debug\tbnv.csproj.CoreCompileInputs.cache
+E:\HK2_NAM4\Thiet bi ngoai vi\WINFORM\tbnv\tbnv\obj\Debug\tbnv.csproj.CopyComplete
+E:\HK2_NAM4\Thiet bi ngoai vi\WINFORM\tbnv\tbnv\obj\Debug\tbnv.exe
+E:\HK2_NAM4\Thiet bi ngoai vi\WINFORM\tbnv\tbnv\obj\Debug\tbnv.pdb
+E:\HK2_NAM4\Thiet bi ngoai vi\WINFORM\tbnv\tbnv\obj\Debug\tbnv.Form2.resources

@@ -1,0 +1,26 @@
+--cpu Cortex-M3
+"tbnv_cuoiki1\startup_stm32f103xb.o"
+"tbnv_cuoiki1\main.o"
+"tbnv_cuoiki1\stm32f1xx_it.o"
+"tbnv_cuoiki1\stm32f1xx_hal_msp.o"
+"tbnv_cuoiki1\stm32f1xx_hal_gpio_ex.o"
+"tbnv_cuoiki1\stm32f1xx_hal_spi.o"
+"tbnv_cuoiki1\stm32f1xx_hal_spi_ex.o"
+"tbnv_cuoiki1\stm32f1xx_hal_tim.o"
+"tbnv_cuoiki1\stm32f1xx_hal_tim_ex.o"
+"tbnv_cuoiki1\stm32f1xx_hal.o"
+"tbnv_cuoiki1\stm32f1xx_hal_rcc.o"
+"tbnv_cuoiki1\stm32f1xx_hal_rcc_ex.o"
+"tbnv_cuoiki1\stm32f1xx_hal_gpio.o"
+"tbnv_cuoiki1\stm32f1xx_hal_dma.o"
+"tbnv_cuoiki1\stm32f1xx_hal_cortex.o"
+"tbnv_cuoiki1\stm32f1xx_hal_pwr.o"
+"tbnv_cuoiki1\stm32f1xx_hal_flash.o"
+"tbnv_cuoiki1\stm32f1xx_hal_flash_ex.o"
+"tbnv_cuoiki1\system_stm32f1xx.o"
+"tbnv_cuoiki1\cjson.o"
+"tbnv_cuoiki1\dht.o"
+--library_type=microlib --strict --scatter "tbnv_cuoiki1\tbnv_cuoiki1.sct"
+--summary_stderr --info summarysizes --map --load_addr_map_info --xref --callgraph --symbols
+--info sizes --info totals --info unused --info veneers
+--list "tbnv_cuoiki1.map" -o tbnv_cuoiki1\tbnv_cuoiki1.axf
